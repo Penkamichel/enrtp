@@ -1994,7 +1994,7 @@ li.fancybox-thumbs-loading {
 /* Styling for Small-Screen Devices */
 
 #header {
-	background: #082751;
+	background: #25274D;
 	position: relative;
 	z-index: 9;
 	padding: 16px 22px 11px;
@@ -2065,11 +2065,11 @@ li.fancybox-thumbs-loading {
 }
 
 .menu li a:hover {
-	border-color: #52C0EE;
+	border-color: #2e9CCA;
 }
 
 .menu li.active a {
-	border-color: #52C0EE;
+	border-color: #2e9CCA;
 }
 
 .menu li.active a:hover {
@@ -2552,6 +2552,7 @@ h2.style span:after {
 }
 
 h1 {
+	margin: 0 0 20px;
 	color: #ffffff;
 }
 
@@ -2576,7 +2577,7 @@ h1 {
 }
 
 .toggle-wrap.active .slider {
-	background: #2377AB;
+	background: #29648a;
 }
 
 .toggle-wrap.active .slider:before {
@@ -2605,7 +2606,7 @@ h1 {
 	height: 25px;
 	width: 25px;
 	left: -2px;
-	background: #52C0EE;
+	background: #2e9cca;
 	bottom: -1px;
 	-webkit-transition: .4s;
 	transition: .4s;
@@ -2861,7 +2862,7 @@ h1 {
 }
 
 .popup .logo-wrap {
-	margin: 0 0 0px;
+	margin: 0 0 52px;
 }
 
 .popup .logo-wrap a {
@@ -2920,7 +2921,7 @@ h1 {
 }
 
 #footer {
-	background: #082751;
+	background: #25274D;
 	color: #fff;
 }
 
@@ -3012,7 +3013,7 @@ h1 {
 
 .sidebar {
 	width: 337px;
-	background: #135589;
+	background: #464866;
 	position: absolute;
 	top: 0;
 	left: -297px;
@@ -3028,7 +3029,7 @@ h1 {
 	top: 0;
 	left: 0;
 	right: 0;
-	background: #135589;
+	background: #464866;
 	box-shadow: 5px 0 4px 0 rgba(0, 0, 0, .5);
 	bottom: -9999px;
 	z-index: -1;
@@ -3092,7 +3093,7 @@ h1 {
 	position: absolute;
 	top: 0;
 	right: 0;
-	background: #135589;
+	background: #464866;
 	text-decoration: none;
 	color: #fff;
 	display: -webkit-box;
@@ -3113,7 +3114,7 @@ h1 {
 }
 
 .sidebar-opener:hover {
-	background: #52C0EE;
+	background: #2e9cca;
 }
 
 .sidebar-opener:after {
@@ -3125,7 +3126,7 @@ h1 {
 	left: 0;
 	width: 13px;
 	height: 5px;
-	background: #135589;
+	background: #464866;
 	pointer-events: none;
 }
 
@@ -3161,7 +3162,7 @@ h1 {
 }
 
 .accordion {
-	background-color: #135589;
+	background-color: #464866;
 	list-style: none;
 	padding: 0;
 }
@@ -3186,21 +3187,21 @@ h1 {
 }
 
 .accordion-item:hover:after {
-	background-color: #2377AB;
+	background-color: #29648a;
 	width: 100%;
 	right: 0;
 }
 
 .accordion-item--theme-2 {
-	background-color: #2377AB;
+	background-color: #29648a;
 }
 
 .accordion-item--theme-2:after {
-	background-color: #2377AB;
+	background-color: #29648a;
 }
 
 .accordion-item--theme-2:hover:after {
-	background-color: #2377AB;
+	background-color: #29648a;
 }
 
 .accordion__trigger {
@@ -3215,7 +3216,7 @@ h1 {
 }
 
 .accordion__content {
-	background-color: #2377AB;
+	background-color: #29648a;
 	color: #fff;
 	font-size: 13px;
 	padding: 28px;
@@ -3241,12 +3242,12 @@ h1 {
 .accordion--sidebar {
 	-webkit-transition: all .3s ease-in-out;
 	transition: all .3s ease-in-out;
-	background-color: #2a93d5;
+	background-color: #aaabbb;
 	margin-bottom: 26px 30px;
 }
 
 .sidebar-active .accordion--sidebar {
-	background-color: #2377AB;
+	background-color: #29648a;
 }
 
 .accordion--sidebar .accordion-item {
@@ -3256,7 +3257,7 @@ h1 {
 }
 
 .accordion--sidebar .accordion-item:hover:after {
-	background-color: #0F4570;
+	background-color: #25274D;
 }
 
 .sidebar-active .accordion--sidebar .accordion-item {
@@ -3276,7 +3277,7 @@ h1 {
 }
 
 .accordion--sidebar .accordion__content {
-	background-color: #0F4570;
+	background-color: #25274D;
 	padding: 13px 30px 22px 18px;
 }
 
