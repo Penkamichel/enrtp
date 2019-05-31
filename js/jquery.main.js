@@ -14,7 +14,7 @@ jQuery(function() {
 window.onbeforeunload = null;
 
 window.base_url = 'https://app.mapx.org/?lockProject=true&';
-window.country = 'MX-2LD-FBB-58N-ROK-8RH'
+window.country = 'MX-HTO-GTU-Q59-JCQ-NSE'
 window.themes = [];
 
 function initOpenLighbox() {
